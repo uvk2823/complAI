@@ -1,5 +1,3 @@
-from pprint import pprint
-
 from layout_parser.Table import Table
 
 
