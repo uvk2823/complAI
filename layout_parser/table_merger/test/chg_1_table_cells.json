@@ -1,2856 +1,1334 @@
 [
   {
-    "_id": "673d7bf0151f26806b13c6fd",
-    "data": {
-      "text": "Rank",
-      "cell_ids": [
-        [
-          1,
-          1
-        ]
-      ],
-      "page_index": 3,
-      "bbox": [
-        265.1929759979248,
-        325.2735023498535,
-        473.53271484375,
-        472.98362731933594
-      ],
-      "type": "cell",
-      "table_index": 1
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.327+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c6fe",
-    "data": {
-      "text": "Name of the Charge holder",
-      "cell_ids": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page_index": 3,
-      "bbox": [
-        474.96107482910156,
-        325.2735023498535,
-        823.8805236816406,
-        472.98362731933594
-      ],
-      "type": "cell",
-      "table_index": 1
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.327+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c6ff",
-    "data": {
-      "text": "Particulars of the property charged",
-      "cell_ids": [
-        [
-          1,
-          3
-        ]
-      ],
-      "page_index": 3,
-      "bbox": [
-        824.9309997558594,
-        325.2735023498535,
-        1275.2575378417969,
-        472.98362731933594
-      ],
-      "type": "cell",
-      "table_index": 1
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.327+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c700",
-    "data": {
-      "text": "Details of their extent on the charge in %",
-      "cell_ids": [
-        [
-          1,
-          4
-        ]
-      ],
-      "page_index": 3,
-      "bbox": [
-        1286.5461120605469,
-        325.2735023498535,
-        1726.0450134277344,
-        472.98362731933594
-      ],
-      "type": "cell",
-      "table_index": 1
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.327+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c701",
-    "data": {
-      "text": "Maximum amount secured in INR",
-      "cell_ids": [
-        [
-          1,
-          5
-        ]
-      ],
-      "page_index": 3,
-      "bbox": [
-        1728.6506042480469,
-        325.2735023498535,
-        2291.348846435547,
-        472.98362731933594
-      ],
-      "type": "cell",
-      "table_index": 1
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.327+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c702",
-    "data": {
-      "text": "Evaluated Price of Asset as on Security interest Creation date in INR",
-      "cell_ids": [
-        [
-          1,
-          1
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        111.42486763000488,
-        1069.6082038879395,
-        568.2024383544922,
-        1251.3724060058594
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.327+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c703",
-    "data": {
-      "text": "Nature of Property",
-      "cell_ids": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        569.4840240478516,
-        1069.6082038879395,
-        1004.9652252197266,
-        1251.3724060058594
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c704",
-    "data": {
-      "text": "PLOT ID Number",
-      "cell_ids": [
-        [
-          1,
-          3
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1011.4207305908203,
-        1069.6082038879395,
-        1452.8838653564453,
-        1251.3724060058594
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c705",
-    "data": {
-      "text": "Survey No. /GAT No. etc.",
-      "cell_ids": [
-        [
-          1,
-          4
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1456.8603057861328,
-        1069.6082038879395,
-        2194.7053985595703,
-        1251.3724060058594
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c706",
-    "data": {
-      "text": "66484800",
-      "cell_ids": [
-        [
-          2,
-          1
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        111.42486763000488,
-        1249.34716796875,
-        568.2024383544922,
-        1367.6690673828125
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c707",
-    "data": {
-      "text": "COMMERCIAL IMMOVABLE PROPERTY",
-      "cell_ids": [
-        [
-          2,
-          2
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        569.4840240478516,
-        1249.34716796875,
-        1004.9652252197266,
-        1367.6690673828125
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c708",
-    "data": {
-      "text": "Plot No. CF-9",
-      "cell_ids": [
-        [
-          2,
-          3
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1011.4207305908203,
-        1249.34716796875,
-        1452.8838653564453,
-        1367.6690673828125
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c709",
-    "data": {
-      "text": "Unit Nos. 235, 236, 243 & 244 on the 2nd Floor of Axis Mall",
-      "cell_ids": [
-        [
-          2,
-          4
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1456.8603057861328,
-        1249.34716796875,
-        2194.7053985595703,
-        1367.6690673828125
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c70a",
-    "data": {
-      "text": "Street Number & Name",
-      "cell_ids": [
-        [
-          3,
-          1
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        111.42486763000488,
-        1364.8853759765625,
-        568.2024383544922,
-        1441.9552917480469
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c70b",
-    "data": {
-      "text": "Sector /Block Number",
-      "cell_ids": [
-        [
-          3,
-          2
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        569.4840240478516,
-        1364.8853759765625,
-        1004.9652252197266,
-        1441.9552917480469
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c70c",
-    "data": {
-      "text": "Locality",
-      "cell_ids": [
-        [
-          3,
-          3
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1011.4207305908203,
-        1364.8853759765625,
-        1452.8838653564453,
-        1441.9552917480469
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c70d",
-    "data": {
-      "text": "Landmark",
-      "cell_ids": [
-        [
-          3,
-          4
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1456.8603057861328,
-        1364.8853759765625,
-        2194.7053985595703,
-        1441.9552917480469
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c70e",
-    "data": {
-      "text": "Action Area- 1C",
-      "cell_ids": [
-        [
-          4,
-          1
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        111.42486763000488,
-        1440.3550720214844,
-        568.2024383544922,
-        1554.177978515625
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c70f",
-    "data": {
-      "text": "Second Floor of Block- B",
-      "cell_ids": [
-        [
-          4,
-          2
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        569.4840240478516,
-        1440.3550720214844,
-        1004.9652252197266,
-        1554.177978515625
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c710",
-    "data": {
-      "text": "Axis Mall, New Town, P.S.",
-      "cell_ids": [
-        [
-          4,
-          3
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1011.4207305908203,
-        1440.3550720214844,
-        1452.8838653564453,
-        1554.177978515625
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c711",
-    "data": {
-      "text": "Near new Town bus terminus at New Town",
-      "cell_ids": [
-        [
-          4,
-          4
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1456.8603057861328,
-        1440.3550720214844,
-        2194.7053985595703,
-        1554.177978515625
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c712",
-    "data": {
-      "text": "Village/Town Name",
-      "cell_ids": [
-        [
-          5,
-          1
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        111.42486763000488,
-        1546.3101196289062,
-        568.2024383544922,
-        1627.6459350585938
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c713",
-    "data": {
-      "text": "Taluka",
-      "cell_ids": [
-        [
-          5,
-          2
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        569.4840240478516,
-        1546.3101196289062,
-        1004.9652252197266,
-        1627.6459350585938
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c714",
-    "data": {
-      "text": "Pin code",
-      "cell_ids": [
-        [
-          5,
-          3
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1011.4207305908203,
-        1546.3101196289062,
-        1452.8838653564453,
-        1627.6459350585938
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c715",
-    "data": {
-      "text": "District",
-      "cell_ids": [
-        [
-          5,
-          4
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1456.8603057861328,
-        1546.3101196289062,
-        2194.7053985595703,
-        1627.6459350585938
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c716",
-    "data": {
-      "text": "Rajarhat",
-      "cell_ids": [
-        [
-          6,
-          1
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        111.42486763000488,
-        1628.4403686523438,
-        568.2024383544922,
-        1721.025390625
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c717",
-    "data": {
-      "text": "MOUZA, THAKDARI",
-      "cell_ids": [
-        [
-          6,
-          2
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        569.4840240478516,
-        1628.4403686523438,
-        1004.9652252197266,
-        1721.025390625
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c718",
-    "data": {
-      "text": "700156",
-      "cell_ids": [
-        [
-          6,
-          3
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1011.4207305908203,
-        1628.4403686523438,
-        1452.8838653564453,
-        1721.025390625
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c719",
-    "data": {
-      "text": "North 24 Parganas",
-      "cell_ids": [
-        [
-          6,
-          4
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1456.8603057861328,
-        1628.4403686523438,
-        2194.7053985595703,
-        1721.025390625
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c71a",
-    "data": {
-      "text": "State",
-      "cell_ids": [
-        [
-          7,
-          1
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        111.42486763000488,
-        1722.1762084960938,
-        568.2024383544922,
-        1860.2367553710938
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c71b",
-    "data": {
-      "text": "Latitude",
-      "cell_ids": [
-        [
-          7,
-          2
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        569.4840240478516,
-        1722.1762084960938,
-        1004.9652252197266,
-        1860.2367553710938
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c71c",
-    "data": {
-      "text": "Longitude",
-      "cell_ids": [
-        [
-          7,
-          3
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1011.4207305908203,
-        1722.1762084960938,
-        1452.8838653564453,
-        1860.2367553710938
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c71d",
-    "data": {
-      "text": "Area of plot Sq. feet, Sq. meter, Acre, Gunta, Cents, Hectares",
-      "cell_ids": [
-        [
-          7,
-          4
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1456.8603057861328,
-        1722.1762084960938,
-        2194.7053985595703,
-        1860.2367553710938
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c71e",
-    "data": {
-      "text": "West Bengal",
-      "cell_ids": [
-        [
-          8,
-          1
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        111.42486763000488,
-        1861.0433349609375,
-        568.2024383544922,
-        1950.5007934570312
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c71f",
-    "data": {
-      "text": "22.518290",
-      "cell_ids": [
-        [
-          8,
-          2
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        569.4840240478516,
-        1861.0433349609375,
-        1004.9652252197266,
-        1950.5007934570312
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c720",
-    "data": {
-      "text": "88.362951",
-      "cell_ids": [
-        [
-          8,
-          3
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1011.4207305908203,
-        1861.0433349609375,
-        1452.8838653564453,
-        1950.5007934570312
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c721",
-    "data": {
-      "text": "5832 sq. ft.",
-      "cell_ids": [
-        [
-          8,
-          4
-        ]
-      ],
-      "page_index": 6,
-      "bbox": [
-        1456.8603057861328,
-        1861.0433349609375,
-        2194.7053985595703,
-        1950.5007934570312
-      ],
-      "type": "cell",
-      "table_index": 2
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c722",
-    "data": {
-      "text": "Evaluated Price of Asset as on Security interest Creation date in INR",
-      "cell_ids": [
-        [
-          1,
-          1
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        162.6296043395996,
-        246.7493896484375,
-        623.1542663574219,
-        463.920654296875
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c723",
-    "data": {
-      "text": "Nature of Property",
-      "cell_ids": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        627.935791015625,
-        246.7493896484375,
-        1031.3561096191406,
-        463.920654296875
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c724",
-    "data": {
-      "text": "PLOT ID Number",
-      "cell_ids": [
-        [
-          1,
-          3
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1030.7992858886719,
-        246.7493896484375,
-        1467.9948425292969,
-        463.920654296875
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c725",
-    "data": {
-      "text": "Survey No. /GAT No.*",
-      "cell_ids": [
-        [
-          1,
-          4
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1464.4862976074219,
-        246.7493896484375,
-        1944.3106384277344,
-        463.920654296875
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c726",
-    "data": {
-      "text": "Dwelling Unit ID Number",
-      "cell_ids": [
-        [
-          2,
-          1
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        162.6296043395996,
-        483.90911865234375,
-        623.1542663574219,
-        679.0104370117188
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c727",
-    "data": {
-      "text": "Floor No.",
-      "cell_ids": [
-        [
-          2,
-          2
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        627.935791015625,
-        483.90911865234375,
-        1031.3561096191406,
-        679.0104370117188
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c728",
-    "data": {
-      "text": "Building Name & Society Name",
-      "cell_ids": [
-        [
-          2,
-          3
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1030.7992858886719,
-        483.90911865234375,
-        1467.9948425292969,
-        679.0104370117188
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c729",
-    "data": {
-      "text": "Street Name / No.",
-      "cell_ids": [
-        [
-          2,
-          4
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1464.4862976074219,
-        483.90911865234375,
-        1944.3106384277344,
-        679.0104370117188
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c72a",
-    "data": {
-      "text": "Sector/Block Number",
-      "cell_ids": [
-        [
-          3,
-          1
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        162.6296043395996,
-        732.1398620605469,
-        623.1542663574219,
-        924.2864074707031
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c72b",
-    "data": {
-      "text": "Locality",
-      "cell_ids": [
-        [
-          3,
-          2
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        627.935791015625,
-        732.1398620605469,
-        1031.3561096191406,
-        924.2864074707031
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c72c",
-    "data": {
-      "text": "Landmark",
-      "cell_ids": [
-        [
-          3,
-          3
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1030.7992858886719,
-        732.1398620605469,
-        1467.9948425292969,
-        924.2864074707031
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c72d",
-    "data": {
-      "text": "Village/Town Name",
-      "cell_ids": [
-        [
-          3,
-          4
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1464.4862976074219,
-        732.1398620605469,
-        1944.3106384277344,
-        924.2864074707031
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c72e",
-    "data": {
-      "text": "Taluka",
-      "cell_ids": [
-        [
-          4,
-          1
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        162.6296043395996,
-        924.6554870605469,
-        623.1542663574219,
-        1082.9973449707031
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c72f",
-    "data": {
-      "text": "Pin Code",
-      "cell_ids": [
-        [
-          4,
-          2
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        627.935791015625,
-        924.6554870605469,
-        1031.3561096191406,
-        1082.9973449707031
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c730",
-    "data": {
-      "text": "District",
-      "cell_ids": [
-        [
-          4,
-          3
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1030.7992858886719,
-        924.6554870605469,
-        1467.9948425292969,
-        1082.9973449707031
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c731",
-    "data": {
-      "text": "State",
-      "cell_ids": [
-        [
-          4,
-          4
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1464.4862976074219,
-        924.6554870605469,
-        1944.3106384277344,
-        1082.9973449707031
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c732",
-    "data": {
-      "text": "Latitude",
-      "cell_ids": [
-        [
-          5,
-          1
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        162.6296043395996,
-        1087.4920959472656,
-        623.1542663574219,
-        1223.0758361816406
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c733",
-    "data": {
-      "text": "Longitude",
-      "cell_ids": [
-        [
-          5,
-          2
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        627.935791015625,
-        1087.4920959472656,
-        1031.3561096191406,
-        1223.0758361816406
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c734",
-    "data": {
-      "text": "Area of dwelling Sq.",
-      "cell_ids": [
-        [
-          5,
-          3
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1030.7992858886719,
-        1087.4920959472656,
-        1467.9948425292969,
-        1223.0758361816406
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c735",
-    "data": {
-      "text": "feet, Sq. Meter",
-      "cell_ids": [
-        [
-          5,
-          4
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1464.4862976074219,
-        1087.4920959472656,
-        1944.3106384277344,
-        1223.0758361816406
-      ],
-      "type": "cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c736",
-    "data": {
-      "text": "Area of dwelling Sq. feet, Sq. Meter",
-      "cell_ids": [
-        [
-          5,
-          3
-        ],
-        [
-          5,
-          4
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1030.7992858886719,
-        1087.4920959472656,
-        1944.3106384277344,
-        1223.0758361816406
-      ],
-      "type": "spanning_cell",
-      "table_index": 3
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c737",
-    "data": {
-      "text": "By North",
-      "cell_ids": [
-        [
-          1,
-          1
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        190.73762321472168,
-        1463.1631927490234,
-        597.5316009521484,
-        1540.4126052856445
-      ],
-      "type": "cell",
-      "table_index": 4
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c738",
-    "data": {
-      "text": "By South",
-      "cell_ids": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        592.8244171142578,
-        1463.1631927490234,
-        1055.4388275146484,
-        1540.4126052856445
-      ],
-      "type": "cell",
-      "table_index": 4
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c739",
-    "data": {
-      "text": "By East",
-      "cell_ids": [
-        [
-          1,
-          3
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1059.7505340576172,
-        1463.1631927490234,
-        1502.8326263427734,
-        1540.4126052856445
-      ],
-      "type": "cell",
-      "table_index": 4
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c73a",
-    "data": {
-      "text": "By West",
-      "cell_ids": [
-        [
-          1,
-          4
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1509.9942474365234,
-        1463.1631927490234,
-        2080.247299194336,
-        1540.4126052856445
-      ],
-      "type": "cell",
-      "table_index": 4
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c73b",
-    "data": {
-      "text": "Major Arterial Road",
-      "cell_ids": [
-        [
-          2,
-          1
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        190.73762321472168,
-        1541.3198623657227,
-        597.5316009521484,
-        1655.693374633789
-      ],
-      "type": "cell",
-      "table_index": 4
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c73c",
-    "data": {
-      "text": "Street No. 173",
-      "cell_ids": [
-        [
-          2,
-          2
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        592.8244171142578,
-        1541.3198623657227,
-        1055.4388275146484,
-        1655.693374633789
-      ],
-      "type": "cell",
-      "table_index": 4
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c73d",
-    "data": {
-      "text": "Street No. 184",
-      "cell_ids": [
-        [
-          2,
-          3
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1059.7505340576172,
-        1541.3198623657227,
-        1502.8326263427734,
-        1655.693374633789
-      ],
-      "type": "cell",
-      "table_index": 4
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c73e",
-    "data": {
-      "text": "Street No. 182",
-      "cell_ids": [
-        [
-          2,
-          4
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1509.9942474365234,
-        1541.3198623657227,
-        2080.247299194336,
-        1655.693374633789
-      ],
-      "type": "cell",
-      "table_index": 4
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c73f",
-    "data": {
-      "text": "Document Type Sale deed/ Lease deed/ Award/Others",
-      "cell_ids": [
-        [
-          1,
-          1
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        101.40535545349121,
-        2162.617666244507,
-        395.41314697265625,
-        2395.4351501464844
-      ],
-      "type": "cell",
-      "table_index": 5
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c740",
-    "data": {
-      "text": "Documen tNumber",
-      "cell_ids": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        389.51123046875,
-        2162.617666244507,
-        617.4898071289062,
-        2395.4351501464844
-      ],
-      "type": "cell",
-      "table_index": 5
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c741",
-    "data": {
-      "text": "Sub registrar",
-      "cell_ids": [
-        [
-          1,
-          3
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        614.6724243164062,
-        2162.617666244507,
-        866.1484375,
-        2395.4351501464844
-      ],
-      "type": "cell",
-      "table_index": 5
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c742",
-    "data": {
-      "text": "Taluka",
-      "cell_ids": [
-        [
-          1,
-          4
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        865.02734375,
-        2162.617666244507,
-        1097.7129516601562,
-        2395.4351501464844
-      ],
-      "type": "cell",
-      "table_index": 5
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c743",
-    "data": {
-      "text": "Country",
-      "cell_ids": [
-        [
-          1,
-          5
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1097.3136596679688,
-        2162.617666244507,
-        1352.603515625,
-        2395.4351501464844
-      ],
-      "type": "cell",
-      "table_index": 5
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c744",
-    "data": {
-      "text": "Pin Code/ Zip code",
-      "cell_ids": [
-        [
-          1,
-          6
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1344.93408203125,
-        2162.617666244507,
-        1619.5611572265625,
-        2395.4351501464844
-      ],
-      "type": "cell",
-      "table_index": 5
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c745",
-    "data": {
-      "text": "City",
-      "cell_ids": [
-        [
-          1,
-          7
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1618.6990966796875,
-        2162.617666244507,
-        1857.7569580078125,
-        2395.4351501464844
-      ],
-      "type": "cell",
-      "table_index": 5
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c746",
-    "data": {
-      "text": "District",
-      "cell_ids": [
-        [
-          1,
-          8
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        1857.9793701171875,
-        2162.617666244507,
-        2147.9761962890625,
-        2395.4351501464844
-      ],
-      "type": "cell",
-      "table_index": 5
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
-  },
-  {
-    "_id": "673d7bf0151f26806b13c747",
-    "data": {
-      "text": "State/UT",
-      "cell_ids": [
-        [
-          1,
-          9
-        ]
-      ],
-      "page_index": 7,
-      "bbox": [
-        2146.8304443359375,
-        2162.617666244507,
-        2394.4678955078125,
-        2395.4351501464844
-      ],
-      "type": "cell",
-      "table_index": 5
-    },
-    "meta": {
-      "cin": "U74900WB2014PTC202212",
-      "section": "ChargeDocuments",
-      "localName": "dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaName": "Form CHG-1",
-      "documentId": "dc8d985f1a45bd8d9d990d3fc434fe6fv1",
-      "fileHash": "c531adb4186664faf741dfecca7809efec69931dae970d82eb3ba2a5bf539b71",
-      "s3Path": "563/U74900WB2014PTC202212/mca/ChargeDocuments/dc8d985f1a45bd8d9d990d3fc434fe6fv1.pdf",
-      "mcaVersion": 3,
-      "mcaFormName": "CHG-1",
-      "mcaFileSize": 3340,
-      "numberOfPages": 11,
-      "formId": "FORMNO.CHG-1",
-      "versionNo": null,
-      "extractionStrategy": "DOCUMENT_AI"
-    },
-    "insertedAt": "2024-11-20T11:34:32.328+0530"
+    "text": "Rank",
+    "cell_ids": [
+      [
+        1,
+        1
+      ]
+    ],
+    "page_index": 3,
+    "bbox": [
+      265.1929759979248,
+      325.2735023498535,
+      473.53271484375,
+      472.98362731933594
+    ],
+    "type": "cell",
+    "table_index": 1
+  },
+  {
+    "text": "Name of the Charge holder",
+    "cell_ids": [
+      [
+        1,
+        2
+      ]
+    ],
+    "page_index": 3,
+    "bbox": [
+      474.96107482910156,
+      325.2735023498535,
+      823.8805236816406,
+      472.98362731933594
+    ],
+    "type": "cell",
+    "table_index": 1
+  },
+  {
+    "text": "Particulars of the property charged",
+    "cell_ids": [
+      [
+        1,
+        3
+      ]
+    ],
+    "page_index": 3,
+    "bbox": [
+      824.9309997558594,
+      325.2735023498535,
+      1275.2575378417969,
+      472.98362731933594
+    ],
+    "type": "cell",
+    "table_index": 1
+  },
+  {
+    "text": "Details of their extent on the charge (in %)",
+    "cell_ids": [
+      [
+        1,
+        4
+      ]
+    ],
+    "page_index": 3,
+    "bbox": [
+      1286.5461120605469,
+      325.2735023498535,
+      1726.0450134277344,
+      472.98362731933594
+    ],
+    "type": "cell",
+    "table_index": 1
+  },
+  {
+    "text": "Maximum amount secured (in INR)",
+    "cell_ids": [
+      [
+        1,
+        5
+      ]
+    ],
+    "page_index": 3,
+    "bbox": [
+      1728.6506042480469,
+      325.2735023498535,
+      2291.348846435547,
+      472.98362731933594
+    ],
+    "type": "cell",
+    "table_index": 1
+  },
+  {
+    "text": "Evaluated Price of Asset as on Security interest Creation date (in INR)",
+    "cell_ids": [
+      [
+        1,
+        1
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      111.42486763000488,
+      1069.6082038879395,
+      568.2024383544922,
+      1251.3724060058594
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Nature of Property",
+    "cell_ids": [
+      [
+        1,
+        2
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      569.4840240478516,
+      1069.6082038879395,
+      1004.9652252197266,
+      1251.3724060058594
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "PLOT ID Number",
+    "cell_ids": [
+      [
+        1,
+        3
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1011.4207305908203,
+      1069.6082038879395,
+      1452.8838653564453,
+      1251.3724060058594
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Survey No. \/GAT No. etc.",
+    "cell_ids": [
+      [
+        1,
+        4
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1456.8603057861328,
+      1069.6082038879395,
+      2194.7053985595703,
+      1251.3724060058594
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "66484800",
+    "cell_ids": [
+      [
+        2,
+        1
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      111.42486763000488,
+      1249.34716796875,
+      568.2024383544922,
+      1367.6690673828125
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "COMMERCIAL IMMOVABLE PROPERTY",
+    "cell_ids": [
+      [
+        2,
+        2
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      569.4840240478516,
+      1249.34716796875,
+      1004.9652252197266,
+      1367.6690673828125
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Plot No. CF-9",
+    "cell_ids": [
+      [
+        2,
+        3
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1011.4207305908203,
+      1249.34716796875,
+      1452.8838653564453,
+      1367.6690673828125
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Unit Nos. 235, 236, 243 & 244 on the 2nd Floor of Axis Mall",
+    "cell_ids": [
+      [
+        2,
+        4
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1456.8603057861328,
+      1249.34716796875,
+      2194.7053985595703,
+      1367.6690673828125
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Street Number & Name",
+    "cell_ids": [
+      [
+        3,
+        1
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      111.42486763000488,
+      1364.8853759765625,
+      568.2024383544922,
+      1441.9552917480469
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Sector \/Block Number",
+    "cell_ids": [
+      [
+        3,
+        2
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      569.4840240478516,
+      1364.8853759765625,
+      1004.9652252197266,
+      1441.9552917480469
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Locality",
+    "cell_ids": [
+      [
+        3,
+        3
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1011.4207305908203,
+      1364.8853759765625,
+      1452.8838653564453,
+      1441.9552917480469
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Landmark",
+    "cell_ids": [
+      [
+        3,
+        4
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1456.8603057861328,
+      1364.8853759765625,
+      2194.7053985595703,
+      1441.9552917480469
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Action Area- 1C",
+    "cell_ids": [
+      [
+        4,
+        1
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      111.42486763000488,
+      1440.3550720214844,
+      568.2024383544922,
+      1554.177978515625
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Second Floor of Block- B",
+    "cell_ids": [
+      [
+        4,
+        2
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      569.4840240478516,
+      1440.3550720214844,
+      1004.9652252197266,
+      1554.177978515625
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Axis Mall, New Town, P.S.",
+    "cell_ids": [
+      [
+        4,
+        3
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1011.4207305908203,
+      1440.3550720214844,
+      1452.8838653564453,
+      1554.177978515625
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Near new Town bus terminus at New Town",
+    "cell_ids": [
+      [
+        4,
+        4
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1456.8603057861328,
+      1440.3550720214844,
+      2194.7053985595703,
+      1554.177978515625
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Village\/Town Name",
+    "cell_ids": [
+      [
+        5,
+        1
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      111.42486763000488,
+      1546.3101196289062,
+      568.2024383544922,
+      1627.6459350585938
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Taluka",
+    "cell_ids": [
+      [
+        5,
+        2
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      569.4840240478516,
+      1546.3101196289062,
+      1004.9652252197266,
+      1627.6459350585938
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Pin code",
+    "cell_ids": [
+      [
+        5,
+        3
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1011.4207305908203,
+      1546.3101196289062,
+      1452.8838653564453,
+      1627.6459350585938
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "District",
+    "cell_ids": [
+      [
+        5,
+        4
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1456.8603057861328,
+      1546.3101196289062,
+      2194.7053985595703,
+      1627.6459350585938
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Rajarhat",
+    "cell_ids": [
+      [
+        6,
+        1
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      111.42486763000488,
+      1628.4403686523438,
+      568.2024383544922,
+      1721.025390625
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "MOUZA, THAKDARI",
+    "cell_ids": [
+      [
+        6,
+        2
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      569.4840240478516,
+      1628.4403686523438,
+      1004.9652252197266,
+      1721.025390625
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "700156",
+    "cell_ids": [
+      [
+        6,
+        3
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1011.4207305908203,
+      1628.4403686523438,
+      1452.8838653564453,
+      1721.025390625
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "North 24 Parganas",
+    "cell_ids": [
+      [
+        6,
+        4
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1456.8603057861328,
+      1628.4403686523438,
+      2194.7053985595703,
+      1721.025390625
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "State",
+    "cell_ids": [
+      [
+        7,
+        1
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      111.42486763000488,
+      1722.1762084960938,
+      568.2024383544922,
+      1860.2367553710938
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Latitude",
+    "cell_ids": [
+      [
+        7,
+        2
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      569.4840240478516,
+      1722.1762084960938,
+      1004.9652252197266,
+      1860.2367553710938
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Longitude",
+    "cell_ids": [
+      [
+        7,
+        3
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1011.4207305908203,
+      1722.1762084960938,
+      1452.8838653564453,
+      1860.2367553710938
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Area of plot (Sq. feet, Sq. meter, Acre, Gunta, Cents, Hectares)",
+    "cell_ids": [
+      [
+        7,
+        4
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1456.8603057861328,
+      1722.1762084960938,
+      2194.7053985595703,
+      1860.2367553710938
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "West Bengal",
+    "cell_ids": [
+      [
+        8,
+        1
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      111.42486763000488,
+      1861.0433349609375,
+      568.2024383544922,
+      1950.5007934570312
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "22.518290",
+    "cell_ids": [
+      [
+        8,
+        2
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      569.4840240478516,
+      1861.0433349609375,
+      1004.9652252197266,
+      1950.5007934570312
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "88.362951",
+    "cell_ids": [
+      [
+        8,
+        3
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1011.4207305908203,
+      1861.0433349609375,
+      1452.8838653564453,
+      1950.5007934570312
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "5832 sq. ft.",
+    "cell_ids": [
+      [
+        8,
+        4
+      ]
+    ],
+    "page_index": 6,
+    "bbox": [
+      1456.8603057861328,
+      1861.0433349609375,
+      2194.7053985595703,
+      1950.5007934570312
+    ],
+    "type": "cell",
+    "table_index": 2
+  },
+  {
+    "text": "Evaluated Price of Asset as on Security interest Creation date (in INR)",
+    "cell_ids": [
+      [
+        1,
+        1
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      162.6296043395996,
+      246.7493896484375,
+      623.1542663574219,
+      463.920654296875
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Nature of Property",
+    "cell_ids": [
+      [
+        1,
+        2
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      627.935791015625,
+      246.7493896484375,
+      1031.3561096191406,
+      463.920654296875
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "PLOT ID Number",
+    "cell_ids": [
+      [
+        1,
+        3
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1030.7992858886719,
+      246.7493896484375,
+      1467.9948425292969,
+      463.920654296875
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Survey No. \/GAT No.*",
+    "cell_ids": [
+      [
+        1,
+        4
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1464.4862976074219,
+      246.7493896484375,
+      1944.3106384277344,
+      463.920654296875
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Dwelling Unit ID Number",
+    "cell_ids": [
+      [
+        2,
+        1
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      162.6296043395996,
+      483.90911865234375,
+      623.1542663574219,
+      679.0104370117188
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Floor No.",
+    "cell_ids": [
+      [
+        2,
+        2
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      627.935791015625,
+      483.90911865234375,
+      1031.3561096191406,
+      679.0104370117188
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Building Name & Society Name",
+    "cell_ids": [
+      [
+        2,
+        3
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1030.7992858886719,
+      483.90911865234375,
+      1467.9948425292969,
+      679.0104370117188
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Street Name \/ No.",
+    "cell_ids": [
+      [
+        2,
+        4
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1464.4862976074219,
+      483.90911865234375,
+      1944.3106384277344,
+      679.0104370117188
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Sector\/Block Number",
+    "cell_ids": [
+      [
+        3,
+        1
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      162.6296043395996,
+      732.1398620605469,
+      623.1542663574219,
+      924.2864074707031
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Locality",
+    "cell_ids": [
+      [
+        3,
+        2
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      627.935791015625,
+      732.1398620605469,
+      1031.3561096191406,
+      924.2864074707031
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Landmark",
+    "cell_ids": [
+      [
+        3,
+        3
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1030.7992858886719,
+      732.1398620605469,
+      1467.9948425292969,
+      924.2864074707031
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Village\/Town Name",
+    "cell_ids": [
+      [
+        3,
+        4
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1464.4862976074219,
+      732.1398620605469,
+      1944.3106384277344,
+      924.2864074707031
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Taluka",
+    "cell_ids": [
+      [
+        4,
+        1
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      162.6296043395996,
+      924.6554870605469,
+      623.1542663574219,
+      1082.9973449707031
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Pin Code",
+    "cell_ids": [
+      [
+        4,
+        2
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      627.935791015625,
+      924.6554870605469,
+      1031.3561096191406,
+      1082.9973449707031
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "District",
+    "cell_ids": [
+      [
+        4,
+        3
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1030.7992858886719,
+      924.6554870605469,
+      1467.9948425292969,
+      1082.9973449707031
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "State",
+    "cell_ids": [
+      [
+        4,
+        4
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1464.4862976074219,
+      924.6554870605469,
+      1944.3106384277344,
+      1082.9973449707031
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Latitude",
+    "cell_ids": [
+      [
+        5,
+        1
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      162.6296043395996,
+      1087.4920959472656,
+      623.1542663574219,
+      1223.0758361816406
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Longitude",
+    "cell_ids": [
+      [
+        5,
+        2
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      627.935791015625,
+      1087.4920959472656,
+      1031.3561096191406,
+      1223.0758361816406
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "Area of dwelling (Sq.",
+    "cell_ids": [
+      [
+        5,
+        3
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1030.7992858886719,
+      1087.4920959472656,
+      1467.9948425292969,
+      1223.0758361816406
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "feet, Sq. Meter)",
+    "cell_ids": [
+      [
+        5,
+        4
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1464.4862976074219,
+      1087.4920959472656,
+      1944.3106384277344,
+      1223.0758361816406
+    ],
+    "type": "cell",
+    "table_index": 3
+  },
+  {
+    "text": "By North",
+    "cell_ids": [
+      [
+        1,
+        1
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      190.73762321472168,
+      1463.1631927490234,
+      597.5316009521484,
+      1540.4126052856445
+    ],
+    "type": "cell",
+    "table_index": 4
+  },
+  {
+    "text": "By South",
+    "cell_ids": [
+      [
+        1,
+        2
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      592.8244171142578,
+      1463.1631927490234,
+      1055.4388275146484,
+      1540.4126052856445
+    ],
+    "type": "cell",
+    "table_index": 4
+  },
+  {
+    "text": "By East",
+    "cell_ids": [
+      [
+        1,
+        3
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1059.7505340576172,
+      1463.1631927490234,
+      1502.8326263427734,
+      1540.4126052856445
+    ],
+    "type": "cell",
+    "table_index": 4
+  },
+  {
+    "text": "By West",
+    "cell_ids": [
+      [
+        1,
+        4
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1509.9942474365234,
+      1463.1631927490234,
+      2080.247299194336,
+      1540.4126052856445
+    ],
+    "type": "cell",
+    "table_index": 4
+  },
+  {
+    "text": "Major Arterial Road",
+    "cell_ids": [
+      [
+        2,
+        1
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      190.73762321472168,
+      1541.3198623657227,
+      597.5316009521484,
+      1655.693374633789
+    ],
+    "type": "cell",
+    "table_index": 4
+  },
+  {
+    "text": "Street No. 173",
+    "cell_ids": [
+      [
+        2,
+        2
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      592.8244171142578,
+      1541.3198623657227,
+      1055.4388275146484,
+      1655.693374633789
+    ],
+    "type": "cell",
+    "table_index": 4
+  },
+  {
+    "text": "Street No. 184",
+    "cell_ids": [
+      [
+        2,
+        3
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1059.7505340576172,
+      1541.3198623657227,
+      1502.8326263427734,
+      1655.693374633789
+    ],
+    "type": "cell",
+    "table_index": 4
+  },
+  {
+    "text": "Street No. 182",
+    "cell_ids": [
+      [
+        2,
+        4
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1509.9942474365234,
+      1541.3198623657227,
+      2080.247299194336,
+      1655.693374633789
+    ],
+    "type": "cell",
+    "table_index": 4
+  },
+  {
+    "text": "Document Type (Sale deed\/ Lease deed\/ Award\/Others)",
+    "cell_ids": [
+      [
+        1,
+        1
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      101.40535545349121,
+      2162.617666244507,
+      395.41314697265625,
+      2395.4351501464844
+    ],
+    "type": "cell",
+    "table_index": 5
+  },
+  {
+    "text": "Documen tNumber",
+    "cell_ids": [
+      [
+        1,
+        2
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      389.51123046875,
+      2162.617666244507,
+      617.4898071289062,
+      2395.4351501464844
+    ],
+    "type": "cell",
+    "table_index": 5
+  },
+  {
+    "text": "Sub registrar",
+    "cell_ids": [
+      [
+        1,
+        3
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      614.6724243164062,
+      2162.617666244507,
+      866.1484375,
+      2395.4351501464844
+    ],
+    "type": "cell",
+    "table_index": 5
+  },
+  {
+    "text": "Taluka",
+    "cell_ids": [
+      [
+        1,
+        4
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      865.02734375,
+      2162.617666244507,
+      1097.7129516601562,
+      2395.4351501464844
+    ],
+    "type": "cell",
+    "table_index": 5
+  },
+  {
+    "text": "Country",
+    "cell_ids": [
+      [
+        1,
+        5
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1097.3136596679688,
+      2162.617666244507,
+      1352.603515625,
+      2395.4351501464844
+    ],
+    "type": "cell",
+    "table_index": 5
+  },
+  {
+    "text": "Pin Code\/ Zip code",
+    "cell_ids": [
+      [
+        1,
+        6
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1344.93408203125,
+      2162.617666244507,
+      1619.5611572265625,
+      2395.4351501464844
+    ],
+    "type": "cell",
+    "table_index": 5
+  },
+  {
+    "text": "City",
+    "cell_ids": [
+      [
+        1,
+        7
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1618.6990966796875,
+      2162.617666244507,
+      1857.7569580078125,
+      2395.4351501464844
+    ],
+    "type": "cell",
+    "table_index": 5
+  },
+  {
+    "text": "District",
+    "cell_ids": [
+      [
+        1,
+        8
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      1857.9793701171875,
+      2162.617666244507,
+      2147.9761962890625,
+      2395.4351501464844
+    ],
+    "type": "cell",
+    "table_index": 5
+  },
+  {
+    "text": "State\/UT",
+    "cell_ids": [
+      [
+        1,
+        9
+      ]
+    ],
+    "page_index": 7,
+    "bbox": [
+      2146.8304443359375,
+      2162.617666244507,
+      2394.4678955078125,
+      2395.4351501464844
+    ],
+    "type": "cell",
+    "table_index": 5
   }
 ]
