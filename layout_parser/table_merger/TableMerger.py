@@ -35,15 +35,14 @@ class TableMerger:
             else:
                 table_end_index = visual_cells[-1]['table_index']
 
-            actual_table_data = [
+            semantic_table_data = [] if table_begin_index < 0 or table_end_index < 0 else [
                 cell for cell in visual_cells
-                if table_begin_index <= cell['table_index'] <= table_end_index
-            ]
+                if table_begin_index <= cell['table_index'] <= table_end_index]
 
-            if actual_table_data:
-                actual_table_data = self._update_cell_data(actual_table_data)
+            if semantic_table_data:
+                semantic_table_data = self._update_cell_data(semantic_table_data)
 
-            table.set_cells(actual_table_data)
+            table.set_cells(semantic_table_data)
             tables[table_name] = table
 
         return tables
@@ -128,7 +127,7 @@ class TableMerger:
         if index < len(matched_cells):
             return matched_cells[index]['table_index']
         else:
-            return None
+            return -1
 
     def _update_cell_data(self, table_data: list) -> list:
         """
